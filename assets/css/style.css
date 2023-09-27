@@ -528,6 +528,10 @@ a.hoverline:hover {
   position: relative;
 }
 
+#placestravelled .col.s12.m2 {
+  text-align: center;
+}
+
 #experience .col.s12.m2 {
   text-align: center;
 }
