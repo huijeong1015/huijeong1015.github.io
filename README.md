@@ -8,4 +8,6 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 ## Activity 3
 ![image](https://github.com/huijeong1015/huijeong1015.github.io/assets/64668622/ace07b51-6725-49fa-9c01-4bb6295265e6)
 ![image](https://github.com/huijeong1015/huijeong1015.github.io/assets/64668622/29a1541e-9ea6-4356-8551-5faf86e4f274)
-
+## Activity 4
+![image](https://github.com/huijeong1015/huijeong1015.github.io/assets/64668622/00c1c6f0-9210-405f-9394-98013f98ba65)
+![image](https://github.com/huijeong1015/huijeong1015.github.io/assets/64668622/acd182d2-cc8b-46e1-ac1e-270bda4a501e)
